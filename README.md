@@ -1,4 +1,3 @@
-# Les-Meilleures-Citations-Pour-Devenir-Riche-et-Disciplin-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
